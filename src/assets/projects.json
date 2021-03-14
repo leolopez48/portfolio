@@ -1,0 +1,137 @@
+{
+    "projects" : [
+        {
+            "id": 1,
+            "title": "Facturación Meraki",
+            "description": [
+                "Meraki es una empresa online para la venta de productos de fiestas.",
+                "Para la optimización de esta era necesario crear una aplicación capaz de generar facturas de forma automática, tomando en cuenta los clientes, productos que se ofertan y los productos vendidos en cada venta."
+            ],
+            "image": [
+                "meraki/meraki1.png",
+                "meraki/meraki2.png",
+                "meraki/meraki3.png",
+                "meraki/meraki4.png",
+                "meraki/meraki5.png",
+                "meraki/meraki6.png",
+                "meraki/meraki7.png",
+                "meraki/meraki8.png",
+                "meraki/meraki9.png",
+                "meraki/meraki10.png"
+            ],
+            "technologies": [
+                {
+                    "name": "PHP con Laravel",
+                    "icon": "fab fa-laravel"
+                },
+                {
+                    "name": "MySQL",
+                    "src": "mysql.png"
+                }
+            ],
+            "demo": "https://meraki.leosweb.site"
+        },
+        {
+            "id": 2,
+            "title": "Horas sociales",
+            "description": [
+                "Aplicación construida para el control de las horas sociales.",
+                "Permite almacenar cada uno de los registros de horas realizadas, como a su vez permite generar un archivo PDF con todos los registros y un contador de todas las horas acumuladas.",
+                "Incorpora también tareas automatizadas, enviando un correo con la copia de seguridad hasta el momento cada domingo a las 5:00 AM. "
+            ],
+            "image": [
+                "registros/registros1.png",
+                "registros/registros2.png",
+                "registros/registros3.png",
+                "registros/registros4.png",
+                "registros/registros5.png"
+            ],
+            "technologies": [
+                {
+                    "name": "PHP con Laravel",
+                    "icon": "fab fa-laravel"
+                },
+                {
+                    "name": "MySQL",
+                    "src": "mysql.png"
+                },
+                {
+                    "name": "Bootstrap 4",
+                    "icon": "fab fa-bootstrap"
+                }
+            ],
+            "demo": "https://registros.leosweb.site/"
+        },
+        {
+            "id": 3,
+            "title": "Invernadero",
+            "description": [
+                "Aplicación construida para el proyecto de investigación de ITCA-FEPADE para el año 2020.",
+                "Haciendo uso de Big Data, presentando gráficas del historial de datos de los invernaderos y cuenta con un modulo administración de las estaciones."
+            ],
+            "image": [
+                "invernadero/invernadero1.png",
+                "invernadero/invernadero2.png",
+                "invernadero/invernadero3.png",
+                "invernadero/invernadero4.png",
+                "invernadero/invernadero5.png",
+                "invernadero/invernadero6.png",
+                "invernadero/invernadero7.png",
+                "invernadero/invernadero8.png",
+                "invernadero/invernadero9.png",
+                "invernadero/invernadero10.png"
+            ],
+            "technologies": [
+                {
+                    "name": "PHP con Laravel",
+                    "icon": "fab fa-laravel"
+                },
+                {
+                    "name": "MongoDB",
+                    "icon": "fas fa-database"
+                },
+                {
+                    "name": "Materialize CSS",
+                    "icon": "fab fa-css3-alt"
+                }
+            ],
+            "github": "https://github.com/leolopez48/invernadero2020"
+        },
+        {
+            "id": 4,
+            "title": "J&P Store",
+            "description": [
+                "J&P Store es una tienda online de repuestos de automóviles.",
+                "Brinda la información necesaria al cliente, y permite la compra de productos."
+            ],
+            "image": [
+                "tienda/tienda1.png",
+                "tienda/tienda2.png",
+                "tienda/tienda3.png",
+                "tienda/tienda4.png",
+                "tienda/tienda5.png",
+                "tienda/tienda6.png",
+                "tienda/tienda7.png",
+                "tienda/tienda8.png",
+                "tienda/tienda9.png",
+                "tienda/tienda10.png"
+            ],
+            "technologies": [
+                {
+                    "name": "HTML 5",
+                    "icon": "fab fa-html5"
+                },
+                {
+                    "name": "JS Vanilla",
+                    "icon": "fab fa-js-square"
+                },
+                {
+                    "name": "Bootstrap 4",
+                    "icon": "fab fa-bootstrap"
+                }
+            ],
+            "github": "https://github.com/leolopez48/tienda",
+            "demo": "https://leosweb.site/tienda/Inicio.html"
+        }
+    ]
+}
