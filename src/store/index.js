@@ -4,7 +4,7 @@ import {
 
 export default createStore({
   state: {
-    url: 'https://leosweb.site/email/email.php'
+    url: 'https://leolopez.dev/email/email.php'
   },
   mutations: {},
   actions: {},
