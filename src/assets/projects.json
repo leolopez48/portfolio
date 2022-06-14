@@ -29,7 +29,7 @@
                     "src": "mysql.png"
                 }
             ],
-            "demo": "https://meraki.leosweb.site"
+            "demo": "https://meraki.leolopez.dev"
         },
         {
             "id": 2,
@@ -60,7 +60,7 @@
                     "icon": "fab fa-bootstrap"
                 }
             ],
-            "demo": "https://registros.leosweb.site/"
+            "demo": "https://registros.leolopez.dev/"
         },
         {
             "id": 3,
@@ -131,7 +131,7 @@
                 }
             ],
             "github": "https://github.com/leolopez48/tienda",
-            "demo": "https://leosweb.site/tienda/Inicio.html"
+            "demo": "https://leolopez.dev/tienda/Inicio.html"
         }
     ]
 }
